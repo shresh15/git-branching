@@ -1,1 +1,2 @@
-conflict 2
+feature 1 : amazing content
+
