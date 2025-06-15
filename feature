@@ -1,1 +1,2 @@
-feature 2: bad content
+feature 1 : amazing content
+
